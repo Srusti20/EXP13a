@@ -1,1 +1,2 @@
 "This is to Push from Local to remote Repository" 
+"This is to Pull from the Remote to Local repository"
